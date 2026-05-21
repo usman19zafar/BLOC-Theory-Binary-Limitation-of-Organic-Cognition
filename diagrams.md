@@ -20,10 +20,11 @@ Contextual
 ---
 
 # diagrams/decomposition_lattice.md
-
+```code
 ## Decomposition Lattice (Text Form)
         [Full Artifact]
         /            \
    [Coarse]        [Fine]
         \            /
         [Common Refinement]
+```
