@@ -6,6 +6,8 @@ https://doi.org/10.5281/zenodo.18692111
 
 Zafar, U. (2026). BLOC Theory: Binary Limitation of Organic Cognition and Cognitive Engineering. Zenodo. https://doi.org/10.5281/zenodo.18692111
 
+BLOC Theory: Binary Limitation of Organic Cognition and Cognitive Engineering https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.18692111 
+
 ## 1. Overview
 BLOC Theory formalizes the categorical limitation of digital computation relative to organic cognition.  
 Binary encoding imposes an ontological transformation that irreversibly removes phenomenological richness.
