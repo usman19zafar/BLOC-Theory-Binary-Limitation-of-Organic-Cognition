@@ -13,3 +13,16 @@ reusable abstractions
 notebooks	reproducibility
 cross-paper links	
 theory graph formation
+
+
+```code
+README,	
+theorem files,	
+code,	
+benchmarks,	
+examples,	
+diagrams,	
+APIs/operators,	
+notebooks,
+cross-paper.
+```
