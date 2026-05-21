@@ -36,5 +36,5 @@ examples	--> adoption acceleration
 diagrams	--> cognitive compression
 APIs/operators	--> reusable abstractions
 notebooks	--> reproducibility
-cross-paper --> links	theory graph formation
+cross-paper links --> theory graph formation
 ```
