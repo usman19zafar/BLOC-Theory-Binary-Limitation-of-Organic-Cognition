@@ -26,3 +26,15 @@ APIs/operators,
 notebooks,
 cross-paper.
 ```
+
+```code
+README	--> semantic entry point
+theorem files	--> formal retrievable concepts
+code	--> executable validation
+benchmarks	--> measurable evidence
+examples	--> adoption acceleration
+diagrams	--> cognitive compression
+APIs/operators	--> reusable abstractions
+notebooks	--> reproducibility
+cross-paper --> links	theory graph formation
+```
