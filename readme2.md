@@ -1,3 +1,25 @@
+# BLOC Theory: Binary Limitation of Organic Cognition
+
+A Foundational Framework in Cognitive Engineering.  
+*"Phenomenology cannot survive binary conversion."*
+
+## Citation & Metadata
+
+If you use this framework, the mathematical formalisms, or the accompanying dataset/code in your research, please cite it as follows:
+
+* **APA:** Zafar, U. (2026). BLOC Theory: Binary Limitation of Organic Cognition and Cognitive Engineering. *Zenodo.* https://doi.org/10.5281/zenodo.18692111
+* **DOI:** [10.5281/zenodo.18692111](https://doi.org/10.5281/zenodo.18692111)
+* **Index Reference:** [OpenAIRE Explore Entry](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.18692111)
+
+```bibtex
+@misc{zafar2026bloc,
+  author       = {Zafar, Usman},
+  title        = {BLOC Theory: Binary Limitation of Organic Cognition and Cognitive Engineering},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18692111},
+  url          = {[https://doi.org/10.5281/zenodo.18692111](https://doi.org/10.5281/zenodo.18692111)}
+}
 ## 1. Overview
 
 BLOC Theory formalizes the categorical limitation of digital computation relative to organic cognition. 
